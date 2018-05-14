@@ -14,14 +14,16 @@ Summary: Persistent reproducible reporting by containerization of R Markdown doc
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/r-liftr-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/r-liftr-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/r-liftr-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/r-liftr-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/r-liftr-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/r-liftr-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-liftr-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-liftr-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-liftr-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-liftr-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-liftr-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-liftr-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-liftr/badges/version.svg)](https://anaconda.org/conda-forge/r-liftr)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-liftr/badges/downloads.svg)](https://anaconda.org/conda-forge/r-liftr)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--liftr-green.svg)](https://anaconda.org/conda-forge/r-liftr) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-liftr.svg)](https://anaconda.org/conda-forge/r-liftr) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-liftr.svg)](https://anaconda.org/conda-forge/r-liftr) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-liftr.svg)](https://anaconda.org/conda-forge/r-liftr) |
 
 Installing r-liftr
 ==================
