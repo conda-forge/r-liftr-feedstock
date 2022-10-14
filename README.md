@@ -1,9 +1,9 @@
 About r-liftr
 =============
 
-Home: https
+Home: https://nanx.me/liftr/, https://github.com/nanxstats/liftr
 
-Package license: GPL-3
+Package license: GPL-3.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-liftr-feedstock/blob/main/LICENSE.txt)
 
